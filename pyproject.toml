@@ -8,6 +8,8 @@ dependencies = [
     "gpytorch>=1.14",
     "numpy>=2.2.2",
     "pandas>=2.2.3",
+    "polars>=1.22.0",
+    "pyarrow>=19.0.0",
     "ruff>=0.9.5",
     "torch>=2.6.0",
 ]
