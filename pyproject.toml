@@ -1,0 +1,13 @@
+[project]
+name = "methylationimputation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gpytorch>=1.14",
+    "numpy>=2.2.2",
+    "pandas>=2.2.3",
+    "ruff>=0.9.5",
+    "torch>=2.6.0",
+]
